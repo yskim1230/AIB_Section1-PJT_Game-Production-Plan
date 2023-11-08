@@ -1,5 +1,5 @@
 # 정리 블로그 주소 : [https://velog.io/write?id=073b3205-8ee8-4d03-b390-7b4775c00cb5](https://velog.io/@malangcow/AIB18Section1PJT)
-
+# Tableau : https://public.tableau.com/app/profile/youngseok.kim/viz/_16994361049060/1
 # AIB18_Section1_PJT
 
 ---------
